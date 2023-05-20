@@ -187,7 +187,7 @@ const PostAd = () => {
                     onChange: setValue,
                   }}
                   autocompletionRequest={{
-                    componentRestrictions: { country: ['pk'] },
+                    componentRestrictions: { country: ['in'] },
                   }}
                 />
               </div>
